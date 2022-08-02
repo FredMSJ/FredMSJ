@@ -1,4 +1,4 @@
-### Hi there 👋
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <a href="https://app.daily.dev/FredMSJ"><img src="https://github.com/FredMSJ/FredMSJ/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
