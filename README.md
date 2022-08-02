@@ -1,6 +1,6 @@
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="200">
 
-<a href="https://app.daily.dev/FredMSJ"><img src="https://github.com/FredMSJ/FredMSJ/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/FredMSJ"><img src="https://github.com/FredMSJ/FredMSJ/blob/master/devcard.svg" width="200" alt="Chris Bongers's Dev Card"/></a>
 
 <!--
 **FredMSJ/FredMSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
