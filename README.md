@@ -1,10 +1,9 @@
 # Hi there 👋
 # My name is Fred, and you can find me on   
-    <a href="https://www.linkedin.com/in/fred-martins-58007a17b/">
+<a href="https://www.linkedin.com/in/fred-martins-58007a17b/">
     <img src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
+      alt="LinkedIn"/>
+</a>
 
 <div align="left">
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="450" align="left">
