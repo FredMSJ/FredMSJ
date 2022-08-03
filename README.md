@@ -1,8 +1,8 @@
 # Hi there 👋
 
 <div align="left">
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="500" align="left">
-  <a href="https://app.daily.dev/FredMSJ"><img src="https://github.com/FredMSJ/FredMSJ/blob/master/devcard.svg" width="300" align="right" alt="FredMSJ Dev Card"/>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="450" align="left">
+  <a href="https://app.daily.dev/FredMSJ"><img src="https://github.com/FredMSJ/FredMSJ/blob/master/devcard.svg" width="350" align="right" alt="FredMSJ Dev Card"/>
   </a>
 </div>
 <!--
