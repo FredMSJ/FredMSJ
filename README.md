@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <div align="left">
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400" align="left">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="600" align="left">
   <a href="https://app.daily.dev/FredMSJ"><img src="https://github.com/FredMSJ/FredMSJ/blob/master/devcard.svg" width="400" align="right" alt="FredMSJ Dev Card"/>
   </a>
 </div>
